@@ -18,6 +18,15 @@ If you have any proposal you are welcome to fork and send a Pull Request or send
 
 ---
 
+## Disclaimer
+
+When running the watch or the production build you can find there is a error:
+ - No value exists in scope for the shorthand property 'route'. Either declare one or provide an initializer.
+
+This is a bug that I can't find for now but I'll patch it as soon as possible, in the meantime the project works without any issue.
+
+---
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
